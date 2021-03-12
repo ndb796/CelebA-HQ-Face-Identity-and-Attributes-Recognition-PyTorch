@@ -12,12 +12,12 @@
 * There are 1,215 test images.
 
 <pre>
-dataset/
-    train/
+<b>Dataset/</b>
+    <b>train/</b>
         identity 1/
         identity 2/
         ...
-    test/
+    <b>test/</b>
         identity 1/
         identity 2/
         ...
@@ -32,11 +32,11 @@ dataset/
 * There are 6,001 test images.
 
 <pre>
-dataset/
-    train/
+<b>Dataset/</b>
+    <b>train/</b>
         male/
         female/
-    test/
+    <b>test/</b>
         male/
         female/
 </pre>
