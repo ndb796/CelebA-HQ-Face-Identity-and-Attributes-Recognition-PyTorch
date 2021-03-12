@@ -1,3 +1,3 @@
-### <b>CelebA HQ Face Identity Recognition Dataset</b>
+### <b>CelebA HQ Face Identity Recognition PyTorch</b>
 
-> CelebA HQ Face Identity Recognition Dataset
+> CelebA HQ Face Identity Recognition PyTorch
