@@ -49,7 +49,7 @@
 * [Testing source code](/Facial_Identity_Classification_Test_with_CelebA_HQ.ipynb)
 * Test accuracy: <b>86.0082%</b>
 
-<img width="60%" src="https://user-images.githubusercontent.com/16822641/110962376-43c03300-8394-11eb-89aa-e04b16da7eab.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/16822641/110964369-7703c180-8396-11eb-9d13-bf9783682c1c.png"/>
 
 #### Face Gender Recognition Dataset
 
