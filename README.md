@@ -1,4 +1,4 @@
-## CelebA HQ Face Identity Recognition PyTorch
+## CelebA HQ Face Identity and Attributes Recognition using PyTorch
 
 > This repository provides a CelebA HQ face identity and attribute recognition model using PyTorch.
 
