@@ -45,10 +45,16 @@
 
 #### Facial Identity Recognition Model
 
+* [Training source code](/Facial_Identity_Classification_using_Transfer_Learning_with_ResNet18.ipynb)
+* [Testing source code](/Facial_Identity_Classification_Test_with_CelebA_HQ.ipynb)
+* Test accuracy: <b>86.0082%</b>
+
+<img width="60%" src="https://user-images.githubusercontent.com/16822641/110962077-e4622300-8393-11eb-991b-6a44d3cb670d.png"/>
+
 #### Face Gender Recognition Dataset
 
 * [Training source code](/Face_Gender_Classification_using_Transfer_Learning_with_ResNet18.ipynb)
 * [Testing source code](/Face_Gender_Classification_Test_with_CelebA_HQ.ipynb)
-* Validation accuracy: <b>98.4003%</b>
+* Test accuracy: <b>98.4003%</b>
 
 <img width="60%" src="https://user-images.githubusercontent.com/16822641/110955992-84687e00-838d-11eb-86dd-c0a4760ac14b.png"/>
