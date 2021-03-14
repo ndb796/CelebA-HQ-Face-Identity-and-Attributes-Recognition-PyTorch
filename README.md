@@ -51,7 +51,7 @@
 
 <img width="60%" src="https://user-images.githubusercontent.com/16822641/110964369-7703c180-8396-11eb-9d13-bf9783682c1c.png"/>
 
-* [Training source code (Resolution 256)](/Facial_Identity_Classification_using_Transfer_Learning_with_ResNet18_Resolution_256.ipynb)
+* [Training source code (resolution 256)](/Facial_Identity_Classification_using_Transfer_Learning_with_ResNet18_Resolution_256.ipynb)
 
 #### Face Gender Recognition Dataset
 
@@ -61,4 +61,4 @@
 
 <img width="60%" src="https://user-images.githubusercontent.com/16822641/110955992-84687e00-838d-11eb-86dd-c0a4760ac14b.png"/>
 
-* [Training source code (Resolution 256)](/Face_Gender_Classification_using_Transfer_Learning_with_ResNet18_Resolution_256.ipynb)
+* [Training source code (resolution 256)](/Face_Gender_Classification_using_Transfer_Learning_with_ResNet18_Resolution_256.ipynb)
