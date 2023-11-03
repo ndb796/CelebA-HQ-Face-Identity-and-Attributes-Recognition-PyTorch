@@ -62,3 +62,19 @@
 <img width="60%" src="https://user-images.githubusercontent.com/16822641/110955992-84687e00-838d-11eb-86dd-c0a4760ac14b.png"/>
 
 * [Training source code (resolution 256)](/Face_Gender_Classification_using_Transfer_Learning_with_ResNet18_Resolution_256.ipynb)
+
+
+### Citation
+
+If this work can be useful for your research, please cite our paper:
+
+<pre>
+@inproceedings{na2022unrestricted,
+  title={Unrestricted Black-Box Adversarial Attack Using GAN with Limited Queries},
+  author={Na, Dongbin and Ji, Sangwoo and Kim, Jong},
+  booktitle={European Conference on Computer Vision},
+  pages={467--482},
+  year={2022},
+  organization={Springer}
+}
+</pre>
