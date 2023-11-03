@@ -2,6 +2,9 @@
 
 > This repository provides a CelebA HQ face identity and attribute recognition model using PyTorch.
 
+* This dataset has been first introduced in the official PyTorch implementations for <b>[Latent-HSJA](https://github.com/ndb796/LatentHSJA)</b>.
+  * The work is presented at [ECCV 2022 Workshop on Adversarial Robustness in the Real World](https://eccv22-arow.github.io/).
+
 ### Datasets
 
 #### Facial Identity Recognition Dataset
